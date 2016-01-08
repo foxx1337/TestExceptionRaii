@@ -1,6 +1,7 @@
 #include "MyClass.h"
 
 #include <iostream>
+#include <stdexcept>
 using namespace std;
 
 int main()
